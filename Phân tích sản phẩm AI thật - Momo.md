@@ -61,7 +61,7 @@ Có manual kể cả trong khi chat Moni (Ko có Moni, manual ?) và bên Momo
 + Không cảnh báo 
 + Không hướng dẫn sửa
 > Đổi:
-Từ “AI đoán” đến “AI + user đồng chỉnh”
+- Từ “AI đoán” đến “AI + user đồng chỉnh”
 Before: - AI = nguồn duy nhất : 
 + Before: - AI = nguồn duy nhất
 + After: - User = nguồn feedback trực tiếp
