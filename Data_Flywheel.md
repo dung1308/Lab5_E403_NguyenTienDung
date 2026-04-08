@@ -1,5 +1,6 @@
 Data Flywheel của Momo:
-<img width="768" height="678" alt="Screenshot 2026-04-08 154154" src="https://github.com/user-attachments/assets/90108467-ea29-427a-9294-dfea7039356b" />
+<img width="4004" height="6342" alt="User Intent Analysis-2026-04-08-085727" src="https://github.com/user-attachments/assets/968be943-68be-4a83-a05b-dd297ff202ea" />
+
 
 # Những sai lầm phá vỡ flywheel
 1. Sai lầm "Memory Poisoning" (Nhiễm độc trí nhớ)
