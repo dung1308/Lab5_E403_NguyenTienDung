@@ -44,14 +44,15 @@ Có manual kể cả trong khi chat Moni (Ko có Moni, manual ?) và bên Momo
 
 
 
-Thêm: 
+> Thêm: 
 1. Explain nhẹ (giải thích vì sao AI ra kết quả)
 -Hiển thị transaction breakdown
 -> User hiểu “AI nghĩ gì” (không còn black box)
 2.Confirmation + reassurance
 -“Đã cập nhật ” 
 -“Moni sẽ ghi nhớ cho lần sau”
-Bỏ: 1. Black-box behavior
+> Bỏ:
+1. Black-box behavior
 -AI đưa kết quả nhưng: 
 +Không explain 
 +Không trace được nguồn
@@ -59,7 +60,7 @@ Bỏ: 1. Black-box behavior
 -Sai nhưng: 
 + Không cảnh báo 
 + Không hướng dẫn sửa
- # Đổi:
+> Đổi:
 -Từ “AI đoán” đến “AI + user đồng chỉnh”
 Before: - AI = nguồn duy nhất : 
 + Before: - AI = nguồn duy nhất
