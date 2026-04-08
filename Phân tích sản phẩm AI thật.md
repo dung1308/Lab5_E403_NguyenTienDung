@@ -35,6 +35,9 @@ Có manual kể cả trong khi chat Moni (Ko có Moni, manual ?) và bên Momo
 Phần 3 — Sketch "làm tốt hơn" (10 phút)
 
 
+<img width="176" height="483" alt="as_is1" src="https://github.com/user-attachments/assets/d38c3d71-7e59-4dfd-9d37-712badfec805" />              <img width="211" height="572" alt="to_be" src="https://github.com/user-attachments/assets/72bcf95a-df25-4496-a0a8-17699b8bc380" />
+
+
                                                                 
 
 
