@@ -59,16 +59,12 @@ Bỏ: 1. Black-box behavior
 -Sai nhưng: 
 + Không cảnh báo 
 + Không hướng dẫn sửa
- Đổi:
+ # Đổi:
 -Từ “AI đoán” đến “AI + user đồng chỉnh”
 Before: - AI = nguồn duy nhất : 
 + Before: - AI = nguồn duy nhất
 + After: - User = nguồn feedback trực tiếp
-Đổi:
-1. Từ “AI đoán” đến “AI + user đồng chỉnh”
-Before: - AI = nguồn duy nhất 
-After: - User = nguồn feedback trực tiế
-Chốt lại: “Chuyển failure từ điểm gãy thành điểm tương tác — nơi user không chỉ sửa dữ liệu mà còn huấn luyện lại AI.”
+
 
 # Phần 4: Vote
 
