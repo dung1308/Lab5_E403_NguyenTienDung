@@ -68,12 +68,12 @@ Before: - AI = nguồn duy nhất :
 
 # Phần 4: Share + Vote
 -Ý kiến riêng của cá nhân:
-"Mình chọn path yếu nhất là khi AI sai trong MoMo.
-Hiện tại, khi AI phân loại sai, user không biết sai ở đâu, cũng không có cách sửa rõ ràng → đây là điểm gãy khiến trust giảm dần.
+> "Mình chọn path yếu nhất là khi AI sai trong MoMo.
+> Hiện tại, khi AI phân loại sai, user không biết sai ở đâu, cũng không có cách sửa rõ ràng → đây là điểm gãy khiến trust giảm dần.
 
-Sketch của mình biến insight từ thông tin tĩnh → thành interactive, cho phép user tap vào, xem chi tiết và sửa ngay trong 1–2 bước.
+> Sketch của mình biến insight từ thông tin tĩnh → thành interactive, cho phép user tap vào, xem chi tiết và sửa ngay trong 1–2 bước.
 
-Quan trọng nhất là thêm feedback loop, để mỗi lần user sửa là AI học và cải thiện lần sau.
+> Quan trọng nhất là thêm feedback loop, để mỗi lần user sửa là AI học và cải thiện lần sau.
 
 Ý chính: biến lỗi AI từ điểm gãy thành điểm học."
 
