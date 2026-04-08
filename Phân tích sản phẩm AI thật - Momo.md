@@ -1,4 +1,5 @@
-#Phân tích sản phẩm AI thật
+Phân tích sản phẩm AI thật
+===================
 Phần 1: Khám phá: AI của Momo: Moni
 - Trước khi dùng: Đưa ra AI Moni, 1 AI agent có nhiệm vụ trợ lý quản tài chính của chủ tài khoản dùng Momo với các vai trò:
 ·  Phân tích hành vi chi tiêu 
@@ -12,8 +13,9 @@ Phần 1: Khám phá: AI của Momo: Moni
 ·  Gợi ý thao tác chuyển tiền
 - Sau khi dùng: + Moni có phân tích dữ liệu  và đọc hành vi chi tiêu khi dùng Momo -> Thống kê chi tiết chi tiêu của mình
 + Đối với những câu từ mơ hồ như “TÌm mẹ tôi” hay “chuyển cho mẹ tôi” -> Moni vẫn tìm dữ liệu và chỉ kết quả là báo lỗi là không tìm thấy, không trả lời câu là một chatbot
-
+===================
 Phần 2 — Phân tích 4 paths (10 phút)
+===================
 
 Dùng framework 4 paths để mổ xẻ sản phẩm:
 Path	Câu hỏi
